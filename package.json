@@ -1,0 +1,16 @@
+{
+  "name": "dx-webfont-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Devexperts <web-frontend@devexperts.com>",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.2.3",
+    "object-assign": "^4.0.1",
+    "webfonts-generator": "^0.3.1"
+  }
+}
